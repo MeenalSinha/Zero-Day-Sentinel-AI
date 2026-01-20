@@ -10,21 +10,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Architecture](#architecture)
-- [Key Features](#key-features)
-- [Setup Instructions](#setup-instructions)
-- [Usage Guide](#usage-guide)
-- [Demonstrating Real-Time Capability](#demonstrating-real-time-capability)
-- [Technical Implementation](#technical-implementation)
-- [Video Demo Script](#video-demo-script)
-- [Judging Criteria Alignment](#judging-criteria-alignment)
-
----
-
 ## 🎯 Overview
 
 **Zero-Day Sentinel AI** is a real-time cybersecurity monitoring system that demonstrates the power of **Live AI**. Unlike traditional security tools that operate on stale data, our system continuously ingests vulnerability intelligence and immediately updates risk assessments and recommendations as new threats emerge.
