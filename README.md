@@ -276,37 +276,6 @@ In Colab Cell 1:
 
 ---
 
-## 🎬 Demonstrating Real-Time Capability
-
-### The "Money Shot" (90 seconds)
-
-**Part 1: Baseline (15s)**
-1. Show Dashboard: Risk = LOW
-2. Show Timeline: Empty
-
-**Part 2: First Injection (30s)**
-3. Click "💥 INJECT ZERO-DAY"
-4. Watch risk jump to CRITICAL
-5. See delta arrow (+8.7)
-6. Timeline shows new event
-
-**Part 3: Answer Change (30s)**
-7. Go to AI Assistant
-8. Ask: "Are there critical vulnerabilities?"
-9. Inject another zero-day
-10. Ask same question
-
-**Part 4: Causal Explanation (15s)**
-11. See "⚠️ ANSWER HAS CHANGED!"
-12. **Money shot - causal explanation:**
-    - CVE ID that caused change
-    - CVSS score
-    - Affected systems
-    - Exact timestamp
-13. Side-by-side comparison
-
----
-
 ## 🔧 Technical Implementation
 
 ### Pathway Components
@@ -372,67 +341,6 @@ def query(self, question, tech_stack):
 
 ---
 
-## 🎥 Video Demo Script
-
-**[0:00-0:20] Intro**
-- Team name
-- Problem: Stale security data
-- Solution: Live AI with Pathway
-
-**[0:20-0:50] Architecture**
-- Show diagram
-- Explain Pathway streaming
-- Custom connector → incremental compute
-
-**[0:50-2:20] Live Demo**
-- Show baseline
-- Inject zero-day
-- Risk jumps CRITICAL
-- Timeline logs event
-- AI answer changes
-- **Highlight causal explanation**
-
-**[2:20-3:00] Features & Conclusion**
-- 3 unique features
-- Pathway-powered real-time
-- Production-ready for SOC teams
-
----
-
-## 🏆 Judging Criteria Alignment
-
-### Real-Time Capability (35%)
-✅ Continuous streaming  
-✅ Sub-second updates  
-✅ No restart needed  
-✅ Timeline proves liveness
-
-### Technical Implementation (30%)
-✅ Correct Pathway API use  
-✅ Clean, modular code  
-✅ Comprehensive documentation  
-✅ Clear architecture
-
-### Innovation & UX (20%)
-✅ Unique cybersecurity domain  
-✅ Causal explanations  
-✅ Professional Streamlit UI  
-✅ Tech-stack personalization
-
-### Impact & Feasibility (15%)
-✅ Clear real-world value  
-✅ Production-ready design  
-✅ Commercial potential  
-✅ Scalable architecture
-
----
-
-## 🎯 **Designed to Maximize All Judging Criteria**
-
-This project addresses every evaluation dimension with production-ready implementation and clear demonstrations of real-time capability.
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -446,7 +354,7 @@ zero-day-sentinel-ai/
 
 ## 👥 Team
 
-[Add your team information]
+### NeuroIgniter - Meenal Sinha (Student at IIT Patna)
 
 ---
 
@@ -460,8 +368,5 @@ MIT License
 
 - **Pathway Team** for the streaming framework
 - **Google** for Gemini API
-- **Inter IIT Tech Meet** for this opportunity
 
 ---
-
-**Built with ❤️ using Pathway for Inter IIT Tech Meet 2025**
