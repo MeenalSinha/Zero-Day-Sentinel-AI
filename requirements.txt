@@ -1,0 +1,24 @@
+# Zero-Day Sentinel AI - Dependencies
+# Tested on Google Colab (Python 3.9+)
+# Production-ready Python package requirements
+
+# Core Pathway Framework
+pathway
+
+# Streamlit UI Framework
+streamlit
+
+# LLM Integration
+google-generativeai
+
+# Networking & Deployment
+pyngrok
+
+# Utilities
+requests
+python-dateutil
+
+# Optional: Testing (uncomment for development)
+# pytest
+# pytest-cov
+# pytest-asyncio
